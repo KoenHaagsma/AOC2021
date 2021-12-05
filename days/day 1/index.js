@@ -32,4 +32,14 @@ function checkPrevious(data) {
     return count;
 }
 
-console.log(checkPrevious(formatData(fetchValues())));
+// First part value
+// console.log(checkPrevious(formatData(fetchValues())));
+
+function addNextThree(data) {
+    for (let i = 0; i < data.length; i++) {
+        let sum = data[i] + data[i + 1] + data[i + 2] + data[i + 3];
+        console.log(sum);
+    }
+}
+
+console.log(addNextThree(formatData(fetchValues())));
