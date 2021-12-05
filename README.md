@@ -1,8 +1,9 @@
-# ⚙ Project name
+# ⚙ Advent of code 2021
 
 *Insert picture/gif of full project UI*
+
 ## 📂 Assignment
-*Assignment explanation*
+Do all assignments in AOC 2021 and try to get 50 stars st the end of 2021
 
 ## 🧾 Table of contents
 -   [About the project](##About-the-project)
@@ -22,27 +23,6 @@
 
 ## 🔍 Getting started
 *Before you can start you need to follow the installation*
-
-## 🔨 Installation
-1. Open the terminal, or use the terminal in your IDE
-
-2. Clone the repository
-```
-git clone https://github.com/KoenHaagsma/TechTrack-Frontend-Applications.git
-```
-3. Go to the cloned repository
-```
-cd ../../Techtrack-Frontend-Applications
-```
-4. Install all packages
-```
-npm install || npm i
-```
-5. Start the application for development
-```
-npm run dev
-```
-6. Open de server and go to the browser: [Localhost](http://localhost:3000/). If this doesn't work change your port to another port
 
 ## 🧰 Packages/dependecies
 
